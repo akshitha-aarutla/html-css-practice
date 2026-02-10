@@ -3,7 +3,7 @@ small frontend project using HTML and CSS
 This repository contains small frontend [rojects built using HTML and CSS . 
 
 ## Live Demo 
-https://akshitha-aarutla.github.io/html-css-practice/
+[https://akshitha-aarutla.github.io/html-css-practice/](https://github.com/akshitha-aarutla/html-css-practice)
 
 ## What i learned 
 - HTML Structure 
